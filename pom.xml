@@ -234,9 +234,9 @@
 						<maxmemory>256m</maxmemory>
 						<footer>
 							&lt;script src="http://www.google-analytics.com/urchin.js"
-							type="text/javascript"&gt;&lt;/script&gt;&lt;script
-							type="text/javascript"&gt;_uacct =
-							"UA-1326640-1";urchinTracker();&lt;/script&gt;
+							type="text/javascript">&lt;/script>&lt;script
+							type="text/javascript">_uacct =
+							"UA-1326640-1";urchinTracker();&lt;/script>
 						</footer>
 					</configuration>
 
@@ -467,7 +467,7 @@
 			<dependency>
 				<groupId>org.glassfish.jaxb</groupId>
 				<artifactId>jaxb-runtime</artifactId>
-				<version>2.3.5</version>
+				<version>2.3.6</version>
 				<scope>runtime</scope>
 			</dependency>
 		</dependencies>
