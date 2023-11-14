@@ -42,7 +42,7 @@
 		<maxmem>512M</maxmem>
 		<mmtf.version>1.0.10</mmtf.version>
 		<slf4j.version>1.7.30</slf4j.version>
-		<log4j.version>2.17.1</log4j.version>
+		<log4j.version>2.19.0</log4j.version>
 		<junit-jupiter.version>5.7.2</junit-jupiter.version>
 		<ciftools.artifact>ciftools-java-jdk8</ciftools.artifact>
 		<ciftools.version>3.0.0</ciftools.version>
@@ -234,9 +234,9 @@
 						<maxmemory>256m</maxmemory>
 						<footer>
 							&lt;script src="http://www.google-analytics.com/urchin.js"
-							type="text/javascript"&gt;&lt;/script&gt;&lt;script
-							type="text/javascript"&gt;_uacct =
-							"UA-1326640-1";urchinTracker();&lt;/script&gt;
+							type="text/javascript">&lt;/script>&lt;script
+							type="text/javascript">_uacct =
+							"UA-1326640-1";urchinTracker();&lt;/script>
 						</footer>
 					</configuration>
 
